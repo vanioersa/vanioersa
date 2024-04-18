@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
 
 <h1 align="center">
   Hello There, I'm Vanino Ersa
