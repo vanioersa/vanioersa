@@ -1,5 +1,3 @@
-# VaninoErsa
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFkYjhncWZwdzN1ZHVpNmQ1bWk4NHd6ZTk5aml6Y3Rtajhkc25qaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
