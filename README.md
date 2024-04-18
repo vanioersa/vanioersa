@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:email@example.com">
+  <a href="mailto:vanvanramadhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.instagram.com/vanvanersa/">
@@ -14,29 +14,29 @@
   </a>
   <a href="https://twitter.com/VaninoErsa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=vanioersa&style=flat-square&color=blue" alt=""/>
-<img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanioersa&style=flat-square&color=blue" alt="Viewer Count Badge"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
+</div>
 
 <h1 align="center">
   Hello There, I'm Vanino Ersa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope:I work as a Software Engineer and work on both frontend and backend to create web applications.
-
-- :seedling:  I'm currently delving deeper into programming and programming languages
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox: You can reach out to me via email at vanvanramadhan@gmail.com.
+- 👨‍💻 I work as a Software Engineer and work on both frontend and backend to create web applications.
+- 📚 I'm currently delving deeper into programming and programming languages.
+- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 📫 You can reach out to me via email at vanvanramadhan@gmail.com.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -61,4 +61,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vanioersa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanioersa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
