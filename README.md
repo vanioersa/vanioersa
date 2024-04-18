@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFkYjhncWZwdzN1ZHVpNmQ1bWk4NHd6ZTk5aml6Y3Rtajhkc25qaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
 </div>
 
+<h1>
+  Hello There, I'm Azizi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div id="badges" align="center">
   <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
