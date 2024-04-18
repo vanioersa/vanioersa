@@ -17,7 +17,6 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=vanioersa&style=flat-square&color=blue" alt=""/>
-<a href="https://wakatime.com/@your-wakatime-id"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total time coded since your-date-here" /></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
 
 <h1 align="center">
