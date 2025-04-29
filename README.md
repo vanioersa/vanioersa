@@ -30,10 +30,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👨‍💻 I work as a Software Engineer and work on both frontend and backend to create web applications.
-- 📚 I'm currently delving deeper into programming and programming languages.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 You can reach out to me via email at vanvanramadhan@gmail.com.
+- 👨‍💻 Saya adalah seorang Software Engineer yang berfokus di pengembangan aplikasi web, khususnya di sisi frontend.
+- 📚 Saat ini saya terus mengembangkan keterampilan saya di dunia pemrograman dan teknologi.
+- ⚡ Di waktu luang, saya suka membaca artikel tentang perkembangan teknologi terbaru.
+- 📫 Anda dapat menghubungi saya melalui email di vanvanramadhan@gmail.com.
 
 ---
 
